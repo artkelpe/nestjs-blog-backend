@@ -41,6 +41,7 @@ $ docker-compose up
 ```
 4. App should be running on localhost:3000
 5. API schema in Swagger format can be found on /api URL
+6. There is also Pgadmin (web-interface to work with db) included into this project - find its port and credentials in docker_compose file
 
 ## Run tests
 To run tests execute inside _app_ container command
