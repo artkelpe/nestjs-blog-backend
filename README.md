@@ -1,6 +1,6 @@
 # Simple API for a blog website
 
-This project contains example of dockerized backend for a blog webpage 
+This project contains example of dockerized backend for a blog webpage. You can find requirements and additional info in file requirements.md
 
 ## Completed requirements
 * Authentication for admin via password
